@@ -22,7 +22,7 @@ If there is no error, recovery.img will be found in out/target/product/rmx5010/r
 
 ## Features
 Not works:
-- [ ] Touch in fastbootd
+- Unknown
 
 Works:
 - [X] ADB
